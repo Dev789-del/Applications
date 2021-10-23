@@ -1,3 +1,0 @@
-The website to make locker.bat file:
-
-https://www.wikihow.com/Lock-a-Folder-Using-a-Batch-File
