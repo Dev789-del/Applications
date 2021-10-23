@@ -11,4 +11,9 @@ https://www.wikihow.com/Use-Gmail
 
 >>How to use Gmail by Wikihow
 
+https://codepen.io/Beard-Design/full/mEXNaN
+
+>>How to make discord custom theme.Dowload theme from https://betterdiscord.app/themes
+
+
 Or you can explore it yourself :))
