@@ -17,4 +17,4 @@ attrib +r -s -h "%USERPROFILE%\Downloads" /S /D
 
 timeout /t 1 /nobreak >nul
 
-start explorer.exe
+start explorer.exe 
